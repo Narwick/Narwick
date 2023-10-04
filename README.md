@@ -24,5 +24,4 @@
 🤝 Vamos colaborar? Estou aberto a sugestões, colaborações e oportunidades de aprendizado conjunto.
 
 📫 Entre em contato comigo:
-- LinkedIn: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorsilva8903/)
-- Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaovictor8903@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorsilva8903/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaovictor8903@gmail.com)
