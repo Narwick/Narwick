@@ -24,5 +24,5 @@
 🤝 Vamos colaborar? Estou aberto a sugestões, colaborações e oportunidades de aprendizado conjunto.
 
 📫 Entre em contato comigo:
-- LinkedIn: [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/joaovictorsilva8903/)]
+- LinkedIn: ![(https://www.linkedin.com/in/joaovictorsilva8903/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - Email: [Seu Endereço de Email]
